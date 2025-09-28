@@ -26,7 +26,7 @@ This is a frontend of weather app, designed to provide users with a seamless and
 <li>A search bar to enter a city name..</li>
 <li>On search, fetch data from a free weather API called OpenWeatherMap.</li>
 <li>Display the current temperature, weather condition (e.g., "Clouds"), and humidity.</li>
-<li>Show a clear error message if the city is not found.</li>
+<li>Show a loading indicator while fetching data and a clear error message if the city is not found.</li>
 <li>The design is responsive and user-friendly.</li>
 
 <h2>Installation</h2>
