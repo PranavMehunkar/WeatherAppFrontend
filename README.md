@@ -51,6 +51,18 @@ To run Weather App locally, follow these steps:
   <pre class="mb-0">
     <code>npm install</code></pre>
 </div>
+<h3>4. Set up environment variables:</h3>
+
+Create a .env file in the root directory and configure the following variables:
+
+<div class="bg-light p-3 rounded border">
+  <pre class="mb-0">
+    <code>VITE_API_URI=&lt;your_vite_api_uri&gt;</code></pre>
+</div>
+<div class="bg-light p-3 rounded border">
+  <pre class="mb-0">
+    <code>VITE_API_KEY=&lt;your_vite_api_key&gt;</code></pre>
+</div>
 
 <h3>5. Run the development server:</h3>
 
